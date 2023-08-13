@@ -1,5 +1,8 @@
 # Datacamp_Data_Scientist
-Portfolio project in Datacamp Data Scientist track
+
+![DataCamp](https://github.com/jonywony/Datacamp_Data_Scientist/blob/main/DataCamp.png)
+
+Portfolio project in Datacamp [Data Scientist Professional](https://drive.google.com/file/d/1R4vGSKwmcXEqEYgMX1fW7nMR78ToN0St/view?usp=drive_link) track.
 ## Description
 
 The projects are divided by the programing language used (Python and SQL).
